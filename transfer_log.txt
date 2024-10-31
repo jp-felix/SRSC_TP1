@@ -1,0 +1,12 @@
+Upload failed for file: [fie.txt] to 127.0.0.3:6973
+Reason: IO error, transfer aborted
+
+Transfer failed for file: [filename.txt] from 127.0.0.1:6973
+Reason: IO error, transfer aborted
+
+Transfer failed for file: [filename.txt] from 127.0.0.1:6973
+Reason: IO error, transfer aborted
+
+Transfer failed for file: [filename.txt] from 127.0.0.1:6973
+Reason: IO error, transfer aborted
+
